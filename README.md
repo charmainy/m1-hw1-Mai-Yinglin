@@ -14,4 +14,4 @@ Before this class, I had no prior experience with coding. To prepare myself, I b
 ## Career Goals
 Because of my partner's job, we frequently move around the world. My goal is to find a career that allows me to work remotely, and coding has become a promising option I’m considering.
 
-This is a change made in the modify-readme branch.
+© 2024 Yinglin Mai. All rights reserved.
